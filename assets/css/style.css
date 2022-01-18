@@ -1,0 +1,53 @@
+h1{
+    color:hotpink;
+    font-size: 12em;
+}
+
+h5{
+    color: brown;
+}
+
+/* .Robert{
+    color:hotpink;
+} */
+
+header {
+/*     height:100pxol1; */
+    width:100%;
+    background-color:green;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+body{
+    background-color: lightgreen;
+}
+
+footer{
+    height: 80px;
+    width:100%;
+    background-color:lime;
+}
+
+button{
+    background-color: green;
+    color: hotpink;
+}
+
+.btn btn-primary{
+    background-color: chocolate;
+}
+
+.card{
+background-color: coral;
+}
+
+.cart-product-img{
+    width: 3%;
+    height: 3%;
+}
+
+.cart-item {
+    background-color: aquamarine;
+}

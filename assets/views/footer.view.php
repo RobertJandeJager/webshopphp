@@ -1,0 +1,1 @@
+<footer><a href="?page=home">Go Back</a></footer>

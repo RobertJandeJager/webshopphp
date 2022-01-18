@@ -1,0 +1,19 @@
+{
+    "name": "eelco/fourth",
+    "description": "My php framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Eelco\\Fourth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert Jan de Jager",
+            "email": "robertjandejager@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
