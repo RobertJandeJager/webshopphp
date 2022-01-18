@@ -15,6 +15,14 @@
             </section>
         </div>
 
+        <div class="container-fluid p-0">
+            <section class="content container">
+                <div class="row">
+                    
+                </div>
+            </section>
+        </div>
+
         <div id="cart-list">
             <h2>Shopping Cart</h2>
 
