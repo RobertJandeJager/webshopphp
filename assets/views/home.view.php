@@ -26,7 +26,7 @@
                 <h5 class="card-title">Recipe Shop</h5>
                 <p class="card-text">I don't even know what fruit this is!</p>
 
-                <a href="?page=shop" class="btn btn-primary buy">Take me to the shop!</a>
+                <a href="?page=food" class="btn btn-primary buy">Take me to the shop!</a>
             </div>
         </div>
     </div>
@@ -37,6 +37,8 @@
             <div class="card-body">
                 <h5 class="card-title">This is a squashed image of an orange with a straw!</h5>
                 <p class="card-text">Did I mention I'm vegan?</p>
+                <a href="?page=login" class="btn btn-primary buy">login</a>
+                <a href="?page=register" class="btn btn-primary buy">register</a>
             </div>
     </div>
 

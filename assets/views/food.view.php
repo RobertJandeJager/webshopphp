@@ -6,8 +6,8 @@
                 <div class="card-body">
                <h5 class="card-title"> <?= $food['name'] ?></h5>
                <!-- <p class="card-text" v-if="product_data.stock != 0">In Stock ({{product_data.stock}})</p>
-               <p class="card-text" v-else>Out of Stock</p>
-               <button class="btn btn-primary" :disabled="product_data.stock === 0" @click="addToCart(product_data.id)">Buy (€{{product_data.cost}})</button> -->
+               <p class="card-text" v-else>Out of Stock</p> -->
+               <button class="btn btn-primary"  @click="addToCart(product_data.id)">Buy (€<?= $food['cost']?>)</button>
            </div>
             </div>
         <?php endforeach ?>
